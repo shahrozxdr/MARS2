@@ -3405,7 +3405,7 @@ MARS.on("message", async message => {
 
 /// by mars
 
-MARS7.login("");
+MARS7.login("ODQzOTkzNTI5MDEyNDUzMzc3.YKL82g.RQPSXHqKbFySedUnsh_KdBdXZ3Y");
 MARS8.login("");
 MARS9.login("");
 MARS10.login("");
