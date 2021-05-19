@@ -1,7 +1,7 @@
 {
-  "main": "jano.js",
+  "main": "mars.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node mars.js"
   },
   "dependencies": {
     "express": "^4.17.1",
