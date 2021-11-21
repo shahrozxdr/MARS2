@@ -3957,7 +3957,13 @@ MARS.on("message", async message => {
 
 /// by mars
 
-MARS7.login("ODA1MTE5ODQ0MDM0MTUwNDEw.YZm4fA.wrEMKKbo-nRWbhztOaULOgN97ps");
+MARS1.login("ODA1MTE5ODQ0MDM0MTUwNDEw.YZnKaw.8PgpA-1N86-eHbB9FC37QKi-xtw");
+MARS2.login("");
+MARS3.login("");
+MARS4.login("");
+MARS5.login("");
+MARS6.login("");
+MARS7.login("");
 MARS8.login("");
 MARS9.login("");
 MARS10.login("");
@@ -4000,4 +4006,4 @@ MARS46.login("");
 MARS47.login("");
 MARS48.login("");
 MARS49.login("");
-MARS50.login("");
+MARS50.login("")
